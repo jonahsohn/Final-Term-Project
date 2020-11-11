@@ -1,0 +1,24 @@
+body{
+background-color: #78c0e0ff;
+margin: 0;
+}
+h1{
+  color: #150578ff;
+}
+h2{
+  color: #150578ff;
+}
+img{
+  border: 1px solid #021a40;
+}
+.pborder {
+  border-left: solid;
+  border-left-width: thick;
+  border-color: #0e0e52ff;
+}
+.link {
+  color: #192bc2ff;
+}
+p {
+  color: #ffffff;
+}
