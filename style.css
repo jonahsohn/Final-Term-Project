@@ -69,15 +69,12 @@ body{
 }
 .image-display-left{
   position:absolute;
-  top:50%;left:0%;
+  top:50%;
+  left:0%;
   transform:translate(0%,-50%);
-  -ms-transform:translate(-0%,-50%);
 }
 .image-padding-large{
-  padding:12px 24px;
-}
-.image-jumbo{
-  font-size:64px;
+  padding:12px;
 }
 .image-text-black{
   color:#000;
