@@ -16,6 +16,10 @@ body{
   outline:0;
   color:#fff;
 }
+.topnav a:hover {
+  background-color: #fff;
+  color: #000;
+}
 .nav-button{
   white-space:normal;
 }
