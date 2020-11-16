@@ -19,9 +19,6 @@ body{
 .nav-button{
   white-space:normal;
 }
-.nav-right{
-  float:right;
-}
 .content-container{
   max-width:980px;
 }
