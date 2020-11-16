@@ -59,6 +59,7 @@ body{
 }
 .image-display-container{
   position:relative;
+  margin-top: 0;
 }
 .image-wide{
   letter-spacing:4px;
