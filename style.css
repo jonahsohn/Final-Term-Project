@@ -68,17 +68,17 @@ body{
   max-width:100%;
   height:auto
 }
-.image-display-left{
-  position:absolute;
-  top:50%;
-  left:0%;
-  transform:translate(0%,-50%);
+.image-display-middle{
+ position:absolute;
+ left:50%;
+ top:0;
+ transform:translate(-50%,0%);
 }
 .image-padding-large{
   padding:12px;
 }
-.image-text-black{
-  color:#000;
+.image-text-white{
+  color:#fff;
 }
 h1{
   font-family: 'Oswald', sans-serif;
