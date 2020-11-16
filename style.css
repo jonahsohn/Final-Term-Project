@@ -7,11 +7,11 @@ body{
   display:inline-block;width:auto;
 }
 .nav-black{
-  color:#fff!important;
-  background-color:#000!important;
+  color:#fff;
+  background-color:#000;
 }
 .nav-hide-small{
-  display:none!important;
+  display:none;
 }
 .navbar-item{
   padding:8px 16px;
@@ -25,7 +25,7 @@ body{
   white-space:normal;
 }
 .nav-right{
-  float:right!important;
+  float:right;
 }
 .content-container{
   max-width:980px;
@@ -36,17 +36,18 @@ body{
   margin-bottom:16px;
 }
 .header-center{
-  text-align:center!important;
+  text-align:center;
 }
 .header-padding{
-  padding-top:48px!important;padding-bottom:48px!important;
+  padding-top:48px;
+  padding-bottom:48px;
 }
 .header-white{
-  color:#000!important;
-  background-color:#fff!important;
+  color:#000;
+  background-color:#fff;
 }
 .header-xl{
-  font-size:48px!important;
+  font-size:48px;
 }
 .header-tag{
   background-color:#000;
@@ -73,13 +74,13 @@ body{
   -ms-transform:translate(-0%,-50%);
 }
 .image-padding-large{
-  padding:12px 24px!important;
+  padding:12px 24px;
 }
 .image-jumbo{
-  font-size:64px!important;
+  font-size:64px;
 }
 .image-text-black{
-  color:#000!important;
+  color:#000;
 }
 h1{
   font-family: 'Oswald', sans-serif;
