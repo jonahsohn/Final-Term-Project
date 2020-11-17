@@ -9,7 +9,7 @@ body{
 }
 .navbar a{
   padding:8px 16px;
-  width: 100%;
+  width: auto;
   border:none;
   display: block;
   outline:0;
