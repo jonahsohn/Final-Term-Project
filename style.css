@@ -14,7 +14,6 @@ body{
   display:inline-block;
   outline:0;
   color:#fff;
-  text-align:center;
 }
 .navbar a:hover {
   background-color: #ccc;
