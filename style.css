@@ -75,6 +75,33 @@ body{
 .image-text-white{
   color:#fff;
 }
+.entries-justify{
+  text-align:justify;
+}
+.entries-image{
+  width: 100%;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+.leftcolumn {
+  float: left;
+  width: 75%;
+}
+.rightcolumn {
+  float: left;
+  width: 25%;
+  padding-left: 20px;
+}
+.card {
+  background-color: #fff;
+  padding: 20px;
+  margin-top: 20px;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 h1{
   font-family: 'Oswald', sans-serif;
 }
