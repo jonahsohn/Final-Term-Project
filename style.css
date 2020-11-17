@@ -16,7 +16,7 @@ body{
   outline:0;
   color:#fff;
 }
-.topnav a:hover {
+.navbar a:hover {
   background-color: #ccc;
   color: #000;
 }
