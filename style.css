@@ -5,10 +5,10 @@ body{
 .navbar{
   width:100%;
   overflow:hidden;
+  color:#000
 }
 .navbar a{
   padding:16px;
-  padding-right: 30px;
   width: auto;
   border:none;
   display:block;
