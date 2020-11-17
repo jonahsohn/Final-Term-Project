@@ -3,9 +3,8 @@ body{
   margin: 0;
 }
 .navbar{
-  width:auto;
-  display:inline-block;
-  background-color:#000;
+  width:100%;
+  overflow:hidden;
 }
 .navbar a{
   padding:16px;
@@ -15,10 +14,6 @@ body{
   outline:0;
   color:#fff;
   text-align:center;
-}
-.navbar a:hover {
-  background-color: #ccc;
-  color: #000;
 }
 .nav-button{
   white-space:normal;
