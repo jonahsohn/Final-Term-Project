@@ -11,7 +11,7 @@ body{
   padding:12px;
   width: auto;
   border:none;
-  display:block;
+  display:inline-block;
   outline:0;
   color:#fff;
   text-align:center;
