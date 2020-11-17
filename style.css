@@ -8,8 +8,9 @@ body{
 }
 .navbar a{
   padding:16px;
+  width: auto;
   border:none;
-  display:inline-block;
+  display:block;
   outline:0;
   color:#fff;
   text-align:center;
