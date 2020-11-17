@@ -3,7 +3,8 @@ body{
   margin: 0;
 }
 .navbar{
-  width:100%;
+  width:auto;
+  display:inline-block;
   background-color:#000;
 }
 .navbar a{
