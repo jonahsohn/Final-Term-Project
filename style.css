@@ -8,12 +8,17 @@ body{
 }
 .navbar a{
   padding:16px;
+  padding-right: 30px;
   width: auto;
   border:none;
   display:block;
   outline:0;
   color:#fff;
   text-align:center;
+}
+.navbar a:hover {
+  background-color: #ccc;
+  color: #000;
 }
 .nav-button{
   white-space:normal;
