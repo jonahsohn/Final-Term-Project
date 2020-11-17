@@ -7,13 +7,13 @@ body{
   background-color:#000;
 }
 .navbar a{
-  float: left;
-  padding:8px;
+  padding:16px;
   width:auto;
   border:none;
   display:inline-block;
   outline:0;
   color:#fff;
+  text-align:center;
 }
 .navbar a:hover {
   background-color: #ccc;
