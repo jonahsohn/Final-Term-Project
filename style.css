@@ -75,25 +75,6 @@ body{
 .image-text-white{
   color:#fff;
 }
-.grid-padding{
-  padding:8px;
-}
-.grid-border{
-  1px solid #ccc;
-}
-.entries-col{
-  width:66.66666%;
-}
-.header-margin{
-  margin:16px;
-}
-.entries-justify{
-  text-align:justify;
-}
-.image-padding-16{
-  padding-top:16px;
-  padding-bottom:16px;
-}
 h1{
   font-family: 'Oswald', sans-serif;
 }
