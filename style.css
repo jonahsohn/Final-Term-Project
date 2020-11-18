@@ -24,7 +24,7 @@ body{
 }
 .content-container{
   max-width:1000px;
-  overflow-hidden
+  overflow: hidden;
 }
 .header-container{
   padding:0.01em 16px;
