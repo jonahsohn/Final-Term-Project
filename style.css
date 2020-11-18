@@ -62,7 +62,7 @@ body{
 }
 .main-image{
   max-width:100%;
-  height:auto
+  height:auto;
 }
 .image-display-middle{
  position:absolute;
