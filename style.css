@@ -133,4 +133,13 @@ h6{
 .p-white{
   color:#fff;
 }
-
+.card a{
+  padding:8px;
+  width: auto;
+  border:none;
+  display: inline-block;
+  text-align:center;
+}
+.card a:hover{
+  opacity:0.6
+}
