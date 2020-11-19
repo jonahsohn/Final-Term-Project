@@ -138,6 +138,7 @@ h6{
   border:none;
   color: #000;
   display:inline-block;
+  float: left;
 }
 .card a:hover{
   opacity:0.6;
