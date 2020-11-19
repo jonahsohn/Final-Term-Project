@@ -134,11 +134,11 @@ h6{
   color:#fff;
 }
 .card a{
-  padding:8px;
   width: auto;
   border:none;
   text-align:center;
   color: #000;
+  display:inline-block;
 }
 .card a:hover{
   opacity:0.6;
